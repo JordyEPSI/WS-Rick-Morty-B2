@@ -93,4 +93,19 @@ La coque de l'outil et les deux extraterrestres ont été modélisés sous Bambu
 
 ## Outils et ressources
 
-Arduino IDE, Blender, BambuLab Studio, imprimante 3D du myDiL, Trello pour le suivi des tâches, GitHub pour le versionnement. Les documents fournis par les enseignants et l'assistant IA Claude ont servi de ressources pendant la semaine. Le code reste sous la responsabilité du groupe : chaque état, chaque broche et chaque temporisation peuvent être expliqués et modifiés par ses membres.
+### Logiciels et matériel
+
+* **Arduino IDE** — programmation des cartes ESP8266
+* **Blender** — modélisation 3D
+* **BambuLab Studio** — préparation des impressions 3D
+* **Imprimante 3D du myDiL** — fabrication de la coque et des cibles
+* **Trello** — organisation et suivi des tâches
+* **GitHub** — versionnement et partage du projet
+
+### Ressources utilisées
+
+Les documents fournis par les enseignants ainsi que l’assistant IA **Claude** ont été utilisés comme ressources pendant le workshop.
+
+### Responsabilité du groupe
+
+Le code et le fonctionnement du projet restent entièrement sous la responsabilité du groupe. Chaque membre est capable d’expliquer et de modifier les différents états, branchements et temporisations du système.
