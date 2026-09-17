@@ -7,18 +7,17 @@ Groupe B2-3 : Ivann Benini, Nicolas Lenois-Gelas, Jordy Rahantanirina, Noura Isa
 
 ## Le projet en deux phrases
 
-Dans le garage de Rick, chaque objet ne sait faire qu'une seule chose. Le Multitool-M4 regroupe plusieurs outils dans un seul boîtier tenu d'une main, commandé par un unique bouton : c'est la durée de l'appui et le nombre de clics qui décident de la fonction utilisée.
-Comme un pointeur laser ne dit pas s'il a touché quelque chose, nous avons aussi fabriqué deux extraterrestres imprimés en 3D qui passent du vert au rouge quand le faisceau les atteint.
+Le Multitool-M4 est un outil multifonction inspiré de l’univers de Rick & Morty, regroupant plusieurs usages dans un seul boîtier contrôlé par un unique bouton. Le projet est complété par deux cibles réactives capables de détecter les tirs du laser.
 
 ## Fonctionnalités
 
-* Télémètre à ultrasons, avec affichage continu de la distance
-* Pointeur laser à charge progressive, avec montée sonore et lumineuse avant le tir
-* Mode rafale, qui envoie le faisceau par impulsions courtes
-* Compteur de charges et recharge
-* Analyseur de style, une fonction volontairement absurde qui rend un verdict au hasard
-* Mise en veille manuelle et mise en veille automatique après un moment sans action
-* Deux cibles réactives, qui passent au rouge et jouent un son de KO quand elles sont touchées, puis reviennent au vert toutes seules
+* Télémètre à ultrasons avec affichage en continu de la distance
+* Pointeur laser avec charge progressive, accompagnée d’effets sonores et lumineux
+* Mode rafale avec tirs laser par impulsions courtes
+* Compteur de munitions avec système de recharge
+* Analyseur de style générant un verdict aléatoire
+* Mise en veille manuelle et automatique après une période d’inactivité
+* Deux cibles réactives détectant les tirs, avec passage du vert au rouge et effet sonore lorsqu’elles sont touchées
 
 ## Architecture
 
