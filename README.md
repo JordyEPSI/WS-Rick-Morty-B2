@@ -47,10 +47,6 @@ README.md
 4. Faire la même chose avec `code/cibles` sur la seconde carte.
 5. Alimenter chaque carte par son propre câble USB. L'outil joue une animation de démarrage puis affiche SYSTEME PRET.
 
-Attention : sur la carte de l'outil, la LED rouge occupe la broche TX. Le moniteur série n'est donc pas utilisable, et il ne faut pas ajouter d'appel à `Serial` dans ce programme.
-
-Le capteur à ultrasons sort une tension plus élevée que ce que la carte accepte. Un pont diviseur de tension est indispensable sur la ligne ECHO.
-
 ## Utilisation
 
 Tout passe par le bouton unique.
