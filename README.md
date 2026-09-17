@@ -73,7 +73,7 @@ Le laser ne doit jamais viser un visage, des yeux ou une surface réfléchissant
 
 ## Fabrication
 
-La coque de l'outil et les deux extraterrestres ont été modélisés sous Blender puis imprimés en 3D au myDiL. Les deux personnages sont collés sur un panneau en carton, la carte et le câblage sont fixés au dos du panneau, donc invisibles de face.
+La coque de l'outil et les deux extraterrestres ont été modélisés sous Bambu Studio puis imprimés en 3D au myDiL. Les deux personnages sont collés sur un panneau en carton, la carte et le câblage sont fixés au dos du panneau, donc invisibles de face.
 
 ## Limites connues
 
