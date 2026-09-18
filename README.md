@@ -147,7 +147,7 @@ La coque de l'outil et les deux extraterrestres ont été modélisés sous Bambu
 ### Logiciels et matériel
 
 * **Arduino IDE** — programmation des cartes ESP8266
-* **Blender** — modélisation 3D
+* **Bambu Studio** — modélisation 3D
 * **BambuLab Studio** — préparation des impressions 3D
 * **Imprimante 3D du myDiL** — fabrication de la coque et des cibles
 * **Trello** — organisation et suivi des tâches
