@@ -67,8 +67,6 @@ Les deux cartes ne sont reliées par aucun fil et n'échangent aucune donnée. L
 code/
   multitool_m4/     programme de la carte de l'outil
   cibles/           programme de la carte des deux cibles
-modeles3d/          fichiers de la coque et des deux extraterrestres
-docs/               dossier technique et fonctionnel, affiche
 README.md
 ```
 
