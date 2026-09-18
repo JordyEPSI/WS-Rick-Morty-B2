@@ -54,7 +54,7 @@ Les cibles sont vertes lorsqu’elles sont actives. Lorsqu’un récepteur déte
 
 Le système repose sur deux cartes NodeMCU ESP8266 indépendantes.
 
-* **Carte 1, l'outil :** bouton, capteur à ultrasons HC-SR04, écran LCD 1602 en I2C, LED rouge et LED verte, buzzer, module laser
+* **Carte 1, l'outil :** bouton, capteur à ultrasons HC-SR04, écran LCD 1602 en I2C, LED RGB, buzzer, module laser
 * **Carte 2, les cibles :** deux récepteurs laser, deux LED RGB, un buzzer partagé
 
 Les deux cartes ne sont reliées par aucun fil et n'échangent aucune donnée. La seule information qui passe de l'une à l'autre est la lumière du laser. Aucun réseau, aucun serveur et aucun service en ligne ne sont utilisés, le Wi-Fi des cartes reste désactivé.
